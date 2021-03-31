@@ -30,3 +30,7 @@ If you find our approach useful in your research, please consider citing:
   year      = {2020}
 }
 ```
+
+### Contact us 
+
+If you have other questions, please contact us: xd.weixia@gmail.com
