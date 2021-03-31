@@ -17,7 +17,6 @@ run_cluster.m
 If you find our approach useful in your research, please consider citing:
 
 ```
-
 @inproceedings{GaoXWXZ20,
   author    = {Quanxue Gao and
                Wei Xia and
